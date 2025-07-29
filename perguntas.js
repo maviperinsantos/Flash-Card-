@@ -1,0 +1,17 @@
+criaCartao (
+    'Programação',
+    'Quantos anos a Maria Vitoria tem?',
+    'Ela vai fazer 16 em outubro'
+)
+
+criaCartao (
+    'Geografia',
+    'Qual é a cidade que a Maria nasceu?',
+    'Ela nasceu no Mato Grosso do Sul na cidade de Campo quande'
+)
+
+criaCartao (
+    'Programação',
+    'Quantas irmã a maria tem?',
+    'Ela tem 7 Irmãs'
+)
